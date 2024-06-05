@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import { toast } from 'react-toastify'
+import 'react-toastify/dist/ReactToastify.css'
 import { Api } from '../api/api'
 import Card from '../components/Card/Card'
 
